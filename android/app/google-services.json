@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571999976524",
+    "firebase_url": "https://real-estate-system-ed957-default-rtdb.firebaseio.com",
+    "project_id": "real-estate-system-ed957",
+    "storage_bucket": "real-estate-system-ed957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571999976524:android:ab89f0cf1562b3942188e9",
+        "android_client_info": {
+          "package_name": "com.EContract.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571999976524-1q0ub5hi083jl2g3a642vvf2a27k2b4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpy2F51_AFcxYH1NlMPw4Dkn2ZzFVlijc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571999976524-1q0ub5hi083jl2g3a642vvf2a27k2b4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
