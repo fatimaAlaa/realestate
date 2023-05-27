@@ -167,7 +167,7 @@ class _HomePageState extends State<HomePage> {
               InkWell(
                 onTap: () {
                   Navigator.of(context).push(
-                      MaterialPageRoute(builder: (context) => const SignIn()));
+                      MaterialPageRoute(builder: (context) => const SignInBuyer()));
                 },
                 borderRadius: BorderRadius.circular(20),
                 hoverColor: const Color(0xff167D7F),

@@ -6,13 +6,13 @@ import 'package:realestate/2_Agent/Create_Contract/Seller_Information.dart';
 import 'package:realestate/2_Agent/Create_Contract/Buyer_Information.dart';
 import 'package:realestate/2_Agent/Create_Contract/Realestate_Information.dart';
 import 'package:realestate/2_Agent/Create_Contract/Payment_Witness_Information.dart';
-import 'package:realestate/3_Seller/ContractDetails.dart';
 import 'package:realestate/3_Seller/SignIn.dart';
+import 'package:realestate/4_Buyer/SignIn.dart';
 
 void main() {
   runApp(
     const MaterialApp(
-      home: SignInSeller(),
+      home: HomePage(),
       debugShowCheckedModeBanner: false,
     ),
   );
